@@ -191,8 +191,8 @@ Currently based in Stuttgart, Germany. Open to roles in AI engineering, autonomy
 | **Robotics** | ROS2, Gazebo, UR5, Motion Planning, Multi-robot Coordination |
 | **Databases** | PostgreSQL, MongoDB, SQL, Data Modeling |
 | **DevOps** | GitLab CI/CD, Docker, Automated Testing, Deployment Pipelines |
-| **Programming** | Python (expert), C/C++ (proficient), Bash/PowerShell, JavaScript/TypeScript |
-| **Cloud** | Azure (Fundamentals certified), AWS basics |
+| **Programming** | Python (expert), C/C++, Bash/PowerShell, |
+| **Cloud** | Azure basics, GCP |
 | **Data Tools** | Pandas, NumPy, SciPy, Matplotlib |
 | **Visualization** | Dashboards, SQL-based analytics, Performance metrics |
 
