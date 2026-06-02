@@ -1,6 +1,6 @@
 # Abhishek Odunghat – AI & Robotics Engineer
 
-<img src="./profile.jpg" alt="Abhishek Odunghat" width="150" height="150" style="border-radius: 50%; margin-bottom: 20px;">
+<img src="./Abhishek_Odunghat.png" alt="Abhishek Odunghat" width="150" height="150" style="border-radius: 50%; margin-bottom: 20px;">
 
 Welcome to my portfolio. I'm an electrical engineer with an M.Sc. in Smart Systems, focused on building production-grade AI systems, autonomous robotics, and intelligent automation solutions. I work at the intersection of deep learning, system integration, and real-world deployment.
 
